@@ -1,0 +1,19 @@
+{
+  "name": "ResumeSite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "144saeed",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": ""
+  },
+  "dependencies": {
+    "express": "",
+    "nodemon": "",
+    "morgan": ""
+  }
+}
