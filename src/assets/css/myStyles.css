@@ -1,0 +1,52 @@
+.bordered {
+  border: solid red 2px;
+}
+
+.noGutter {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+}
+
+.wideFrame {
+  position: fixed;
+  height: 50vh;
+  margin-top: 25vh;
+}
+
+.height100 {
+  height: 100%;
+}
+
+.width100{
+    width: 100%;
+}
+
+#personalPicDiv {
+    padding: 0;
+    size: 0 0;
+}
+
+.fontRoboto{
+    font-family: "roboto";
+}
+
+.fontBitter{
+    font-family: "bitter";
+}
+
+.responsiveFont5{
+    font-size: 5vw;
+}
+
+.responsiveFont2{
+    font-size: 2vw;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
